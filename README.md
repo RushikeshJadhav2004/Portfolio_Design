@@ -10,7 +10,7 @@ A modern, sleek portfolio web app built using **Next.js**, **Tailwind CSS**, and
 *Home Page UI*
 
 ![Screenshot 2](https://github.com/user-attachments/assets/fd4a5953-c44e-4db6-956e-054f88c8aa7e)
-*Project Listing UI*
+*Contact Me Page*
 
 
 ## 🚀 Features
@@ -32,8 +32,8 @@ A modern, sleek portfolio web app built using **Next.js**, **Tailwind CSS**, and
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio-web-app.git
-   cd portfolio-web-app
+   [git clone https://github.com/yourusername/portfolio-web-app.git
+   cd portfolio-web-app](https://github.com/RushikeshJadhav2004/Portfolio_Design.git)
    ```
 
 2. Install dependencies:
@@ -60,4 +60,4 @@ A modern, sleek portfolio web app built using **Next.js**, **Tailwind CSS**, and
 
 ---
 
-> Feel free to use and customize this template for your personal portfolio!
+
