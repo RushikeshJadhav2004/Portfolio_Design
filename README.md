@@ -3,6 +3,16 @@
 
 A modern, sleek portfolio web app built using **Next.js**, **Tailwind CSS**, and **TypeScript**. Designed to showcase skills, projects, and professional background with smooth UI/UX and responsive design.
 
+
+## 📸 Screenshots
+
+![Screenshot 1](https://github.com/user-attachments/assets/6f8d5a4a-2752-4069-ab8e-fdfcb0504abe)
+*Home Page UI*
+
+![Screenshot 2](https://github.com/user-attachments/assets/fd4a5953-c44e-4db6-956e-054f88c8aa7e)
+*Project Listing UI*
+
+
 ## 🚀 Features
 
 - Responsive modern layout with dark theme
@@ -41,15 +51,6 @@ A modern, sleek portfolio web app built using **Next.js**, **Tailwind CSS**, and
 - Modify files in the `app/`, `components/`, and `public/` folders to personalize your site.
 - Replace placeholder images in `public/` with your own screenshots and assets.
 
-## 📸 Screenshots
-
-![Screenshot 1](<img width="1341" height="679" alt="Screenshot 2025-07-20 153113" src="https://github.com/user-attachments/assets/6f8d5a4a-2752-4069-ab8e-fdfcb0504abe" />
-)
-*Sample Logo Placeholder*
-
-![Screenshot 2](<img width="1348" height="679" alt="Screenshot 2025-07-20 153138" src="https://github.com/user-attachments/assets/fd4a5953-c44e-4db6-956e-054f88c8aa7e" />
-)
-*User Placeholder Image*
 
 ## 👤 Author
 
